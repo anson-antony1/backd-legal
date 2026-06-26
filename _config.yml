@@ -1,0 +1,5 @@
+title: Backd
+description: Privacy and support documents for Backd.
+theme: jekyll-theme-minimal
+# Project page (served under /backd-legal) — baseurl keeps the theme's assets resolving.
+baseurl: "/backd-legal"
