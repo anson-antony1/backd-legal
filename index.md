@@ -1,13 +1,6 @@
 ---
 title: Backd
+redirect_to: https://backd.dev/
 ---
 
-# Backd
-
-Accountability that's private by default — set a goal, prove it, and let a friend
-you trust keep you honest. No public feed, no leaderboards, no money moves.
-
-- [Privacy Policy](privacy)
-- [Support](support)
-
-Contact: ansonkanniman@gmail.com
+Backd's policies and support have moved to [backd.dev](https://backd.dev/).
