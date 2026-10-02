@@ -1,5 +1,8 @@
 title: Backd
-description: Privacy and support documents for Backd.
+description: Backd's policies and support now live at https://backd.dev.
 theme: jekyll-theme-minimal
 # Project page (served under /backd-legal) — baseurl keeps the theme's assets resolving.
 baseurl: "/backd-legal"
+# Every page here redirects to the current version on backd.dev.
+plugins:
+  - jekyll-redirect-from
